@@ -1,16 +1,13 @@
-# This is a sample Python script.
+"""
+Filename: interview.py
+Author: <Francsico, Audrey>
+Created: <MM/DD/YYYY>
+Instructor: Holtslander
+"""
+input("What is your name?")
+input("What made you want to work at Osbourn High School?")
+input("How do you handle a stressful situation in a busy classroom?")
+input("Can you share an example of how you work well with a team?")
+input("What is one fun fact about yourself that you would like our students to know?")
+input("Why do you think you are a great fit for our school community?")
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
