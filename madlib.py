@@ -25,12 +25,12 @@ w18=input("Verb ending in -ed")
 w19=input("Adverb")
 w20=input("Noun")
 
-print(f"My name is {w1}, and yesterday my {w2} friend {w3} invited me to {w4}."
-      f"We walked in the {w5}{w6} when suddenly, a {w7} {w8} jumped out!"
-      f"I screamed, {w9}!"
-      f"This caused {w10} to start {w11} {w12} all around us."
-      f"I grabbed a {w13} {w14} while my friend tried to {w15} behind a {w16}."
-      f"We felt very {w17} until the chaos finally {w18} {w19} into the {w20}.")
+print(f" My name is {w1}, and yesterday my {w2} friend {w3} invited me to {w4}.\n"
+      f" We walked in the {w5}{w6} when suddenly, a {w7} {w8} jumped out!\n"
+      f" I screamed, {w9}!\n"
+      f" This caused {w10} to start {w11} {w12} all around us.\n"
+      f" I grabbed a {w13} {w14} while my friend tried to {w15} behind a {w16}.\n"
+      f" We felt very {w17} until the chaos finally {w18} {w19} into the {w20}.\n")
 
 
 
