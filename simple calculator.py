@@ -6,9 +6,9 @@ Instructor: Burgess
 """
 print("Welcome to the Four-Function Calculator!")
 print("This program will take two whole numbers and calculate the sum, difference, product, and quotient.")
-w1=input("Enter your first whole number, like 4 or 8, not 4.2 or 8.7")
+w1=input("Enter your first whole number, like 4 or 8, not 4.2 or 8.7. ")
 num1=int(w1)
-w2=input("Enter your second whole number, like 4 or 8, not 4.2 or 8.7")
+w2=input("Enter your second whole number, like 4 or 8, not 4.2 or 8.7. ")
 num2=int(w2)
 sum=num1+num2
 difference=num1-num2
