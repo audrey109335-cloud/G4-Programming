@@ -4,6 +4,8 @@ Author: <Francisco, Audrey>
 Created: <09/29/2026>
 Instructor: Burgess
 """
+correct_answers_count = 0
+total_score = 0
 print("Welcome to the trivia game!")
 print("In a sec, you will get a series of questions to answer.")
 print("Please answer each question carefully.")
