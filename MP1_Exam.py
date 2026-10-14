@@ -1,14 +1,24 @@
 """
-Francisco_Audrey
+<Francisco,Audrey>
 MP1_Exam
 """
+ts1=input("What is your test score?: ")
+num1=int(ts1)
 
-F = int(input("Enter the temperature in Fahrenheit: "))
-c=(F-32)*5/9
-print(c)
-if c<=0:
-    print("Freezing Alert!")
-elif c>=35:
-    print("Heat Warning!")
+if (num1>=90 and num1<=100):
+    print("Your test score is an (A) {ts1}!, Awesome job!")
+
+elif (num1>=80 and num1<=89):
+    print("Your test score is an (B) {ts1}!, Awesome job!")
+
+elif (num1>=70 and num1<=79):
+    print("Your test score is an (C) {ts1}!, Keep Practicing!")
+
+elif (num1>=60 and num1<=69):
+    print("Your test score is an (D) {ts1}!, Keep Practicing!")
+
+elif num1<0:
+    print("Are you for real...")
+
 else:
-    print("Normal Temperature")
+    print("Your test score is an (F) {ts1}!, Keep Practicing!")
