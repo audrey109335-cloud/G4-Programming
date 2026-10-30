@@ -28,5 +28,6 @@ if guess < x:
 elif guess > x:
     print("Too high, Try again.")
 else:
-    print("Congratulations. You guessed the number correct in {attempts} attempts!
-break
+    print(f"Congratulations. You guessed the number correct in {attempts} attempts!
+          break
+
